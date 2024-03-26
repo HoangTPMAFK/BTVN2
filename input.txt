@@ -1,0 +1,4 @@
+Mã SV: 64373, Họ tên: Nguyễn Văn A, Giới tính: Nam, Điểm Java: 8.0, Điểm Python: 8.5
+Mã SV: 63493, Họ tên: Nguyễn Thị A, Giới tính: Nữ, Điểm Java: 5.0, Điểm Python: 5.0
+Mã SV: 84553, Họ tên: Nguyễn Văn B, Giới tính: Nam, Điểm Java: 7.5, Điểm Python: 9.0
+Mã SV: 89763, Họ tên: Nguyễn Thị B, Giới tính: Nữ, Điểm Java: 7.0, Điểm Python: 4.0

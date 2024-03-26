@@ -1,0 +1,4 @@
+Mã SV: 64373, Họ tên: Nguyễn Văn A, Giới tính: Nam, Điểm trung bình: 8.166666666666666, Kết quả: Đậu
+Mã SV: 63493, Họ tên: Nguyễn Thị A, Giới tính: Nữ, Điểm trung bình: 5.0, Kết quả: Đậu
+Mã SV: 84553, Họ tên: Nguyễn Văn B, Giới tính: Nam, Điểm trung bình: 8.0, Kết quả: Đậu
+Mã SV: 89763, Họ tên: Nguyễn Thị B, Giới tính: Nữ, Điểm trung bình: 6.0, Kết quả: Đậu
